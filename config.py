@@ -68,10 +68,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jani_RP")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+7ROq61PIXmE5NmU1")
-SOURCE = getenv("SOURCE", "https://t.me/Jani_RP")
-CHAT = getenv("CHAT", "https://t.me/+7ROq61PIXmE5NmU1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+PQQ3gVy4C_Q2NGNl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+PQQ3gVy4C_Q2NGNl")
+SOURCE = getenv("SOURCE", "https://t.me/+PQQ3gVy4C_Q2NGNl")
+CHAT = getenv("CHAT", "https://t.me/+PQQ3gVy4C_Q2NGNl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -184,4 +184,4 @@ if SUPPORT_CHAT:
 # ----------------------------------------------------------------------------------------
 # ----------------------------------------------------------------------------------------
 
-CLONE_LOGGER = int(getenv("CLONE_LOGGER", -1002734717816))
+CLONE_LOGGER = int(getenv("CLONE_LOGGER", -1003378768637))
